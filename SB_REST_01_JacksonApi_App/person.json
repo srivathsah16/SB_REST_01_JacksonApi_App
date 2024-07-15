@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"name": "Ravi",
+	"gender": "Male",
+	"email": "ravi@gmail.com",
+	"address": {
+		"doorNo": 1,
+		"street": "abc Street",
+		"city": "Mysore",
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
